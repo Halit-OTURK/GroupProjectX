@@ -4,5 +4,6 @@ public class TC_001 {
 
         // part1 is done
         // part2 is done
+        System.out.println("all is over");
     }
 }
